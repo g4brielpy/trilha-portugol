@@ -1,2 +1,0 @@
-# trilha-portugol
- EDITA
